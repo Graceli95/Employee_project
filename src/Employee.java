@@ -29,12 +29,10 @@ public class Employee {
 
     public void setPayRate(double payRate) {
         this.payRate = payRate;
-
     }
 
     public String getFirstName() {
         return firstName;
-
     }
 
     public String getLastName() {
